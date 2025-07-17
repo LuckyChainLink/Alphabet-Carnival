@@ -1,2 +1,13 @@
-# Alphabet-Carnival
-Alphabet Carnival is a decentralized lucky draw DApp based on blockchain smart contracts, which can be called "Smart Lottery Chain".
+# Sample Hardhat Project
+
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat ignition deploy ./ignition/modules/Lock.ts
+```
